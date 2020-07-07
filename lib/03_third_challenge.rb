@@ -11,7 +11,6 @@ def third_challenge
       age => "15", 
       :status => "Alive"
         },
-      :hero_friends => []
    }, 
    :capulet => {
       :patriarch => { :name => "Lord Montague",
@@ -25,7 +24,6 @@ def third_challenge
       :status => "Alive"
         #your key/value pairs here
         },
-      :heroine_friends => []
    }
   }
 
